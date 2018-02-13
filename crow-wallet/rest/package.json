@@ -1,0 +1,18 @@
+{
+  "name": "crow-rest",
+  "version": "1.0.0",
+  "description": "restfulapi fro crow wallet",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "crow analytics",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt-nodejs": "0.0.3",
+    "express": "^4.16.2",
+    "mongodb": "^3.0.2",
+    "mongoose": "^5.0.5",
+    "ripple-lib": "^0.18.1"
+  }
+}
